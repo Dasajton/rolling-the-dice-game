@@ -1,6 +1,6 @@
 # Rolling the Dice
 
-### This repo contains a small JavaScript-Game that I built on my journey of learning how programming an Application with JavaScript and algortihm thinking works
+### This repo contains a small JavaScript-Game that I built on my journey of learning how to program an Application with JavaScript and algortihm thinking works
 
 ![Mockup-Start](roll-the-dice-mockup-start.png)
 
